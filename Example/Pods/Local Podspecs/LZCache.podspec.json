@@ -1,0 +1,22 @@
+{
+  "name": "LZCache",
+  "version": "0.1.0",
+  "summary": "A short description of LZCache.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lizheng/LZCache",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lizheng": "lizheng@limikeji.com"
+  },
+  "source": {
+    "git": "https://github.com/lizheng/LZCache.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LZCache/Classes/**/*"
+}

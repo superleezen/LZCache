@@ -1,0 +1,16 @@
+PODS:
+  - LZCache (0.1.0)
+
+DEPENDENCIES:
+  - LZCache (from `../`)
+
+EXTERNAL SOURCES:
+  LZCache:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LZCache: 6e6cd9763a14540c16049444e45146bbd7c19a54
+
+PODFILE CHECKSUM: ec04a8c348198fa4a6aa87d318a702921cc71c17
+
+COCOAPODS: 1.5.3

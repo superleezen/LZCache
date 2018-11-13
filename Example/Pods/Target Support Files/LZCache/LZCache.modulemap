@@ -1,0 +1,6 @@
+framework module LZCache {
+  umbrella header "LZCache-umbrella.h"
+
+  export *
+  module * { export * }
+}

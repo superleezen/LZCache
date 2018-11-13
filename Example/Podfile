@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LZCache_Example' do
+  pod 'LZCache', :path => '../'
+
+  target 'LZCache_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -22,7 +22,7 @@ pod 'LZCache'
 
 ## Author
 
-lizheng, lizheng@limikeji.com
+leezen, emailoflizheng@126.com
 
 ## License
 
